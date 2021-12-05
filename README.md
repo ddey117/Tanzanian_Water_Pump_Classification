@@ -45,7 +45,7 @@ Below is an unpdated map for a binary classifcation model.
 
 The column describing population is heavily skewed towards a value of zero, and it would seem very unlikely for so many wells to have a population of zero. Nearly 50% of the data is skewed towards a value of either zero or one. It is hard to trust the validaty of this column. I decided to drop this column and bring in population information by ward collected by government census in 2012. This data has its own issues but I believe it to be a more complete dataset and give a better idea about the number of people who could benefit from the presence of a functional well in their area. Ward is a high level geological feature with thousands of divisions for Tanzania.
  
- ![water_pump_map](mages/ward_pop_map.png)
+ ![water_pump_map](images/ward_pop_map.png)
  
 Below are the columns from the DrivenData dataset that I decided to drop initially and the reasoning behind dropping the column. This step will help overall model speeds and should reduce the chance of overfitting by cutting down on multicolinearity. 
 
