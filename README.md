@@ -145,9 +145,12 @@ Github: [Dddey Github](https://github.com/ddey117/Tanzanian_Water_Pump_Classific
 Describe the structure of your repository and its contents, for example:
 
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                             <- The top-level README for reviewers of this project
+├── Tzn_Wtr_Pump_Data_Exploration.ipynb   <- exploratory notebook
+├── Data_Exploration_Notebook.pdf         <- PDF version of exploratory notebook
+├── Water_Pump_Modeling.ipynb             <- modeling notebook
+├── Water_Pump_Modeling.pdf               <- modeling notebook pdf
+├── Project_Presentation.pdf              <- project presentation pdf
+├── data                                  <- Both sourced externally and generated from code
+└── images                                <- Both sourced externally and generated from code
 ```
