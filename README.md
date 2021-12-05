@@ -3,7 +3,7 @@
 
 **Author:** Dylan Dey
 
-This project it available on github here: https://github.com/ddey117/Tanzanian_Water_Pump_Classification
+This project it available on github here: [github link](https://github.com/ddey117/Tanzanian_Water_Pump_Classification)
 
 
 ## Overview
